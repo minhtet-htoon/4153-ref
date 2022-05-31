@@ -9,7 +9,7 @@ const config = {
   title: 'Project Y Docs & References',
   tagline: 'Build more than robots',
   url: 'https://docs.mintyh.me',
-  baseUrl: 'https://docs.mintyh.me/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'https://4153-website.vercel.app/favicon.png',
