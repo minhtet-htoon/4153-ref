@@ -1,5 +1,6 @@
 # Use Project Y's Website as a Template For Your Own.
-The Website is licensed under the permissive MIT licence. Make sure you read it before starting.
+The website is licensed under the permissive MIT licence to let other teams use it as a template. 
+Make sure you understand it before starting.
 
 ## Prerequisites
 

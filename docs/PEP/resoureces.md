@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 # PEP Resources
 
 ## Java
