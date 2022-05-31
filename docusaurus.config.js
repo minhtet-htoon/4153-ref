@@ -8,16 +8,16 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Project Y Docs & References',
   tagline: 'Build more than robots',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/home/minhteth/WebstormProjects/4153-ref/build/',
+  url: 'minhtet-htoon.github.io/4153-ref',
+  baseUrl: 'minhtet-htoon.github.io/4153-ref/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'https://4153-website.vercel.app/favicon.png',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'minhtet-htoon', // Usually your GitHub org/user name.
+  projectName: '4153-ref', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
