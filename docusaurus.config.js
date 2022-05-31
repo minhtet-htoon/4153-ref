@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Project Y Docs & References',
   tagline: 'Build more than robots',
-  url: 'minhtet-htoon.github.io/4153-ref',
-  baseUrl: 'minhtet-htoon.github.io/4153-ref/',
+  url: 'https://docs.mintyh.me',
+  baseUrl: 'https://docs.mintyh.me/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'https://4153-website.vercel.app/favicon.png',
@@ -23,8 +23,8 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'en-us',
+    locales: ['en-us'],
   },
 
   presets: [
